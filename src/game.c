@@ -1,3 +1,5 @@
+//to compile a new main.exe use this command in the root folder "clang -o main.exe .\src\*.c -Llib -lraylibdll -Iinclude"
+
 #include "game.h"
 #include "raylib.h"
 #include "stdlib.h"
